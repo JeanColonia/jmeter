@@ -1,0 +1,62 @@
+{
+  "Destination" : {
+    "transaction" : "Destination",
+    "sampleCount" : 15,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 982.9999999999999,
+    "minResTime" : 615.0,
+    "maxResTime" : 1578.0,
+    "pct1ResTime" : 1502.4,
+    "pct2ResTime" : 1578.0,
+    "pct3ResTime" : 1578.0,
+    "throughput" : 1.0584997530167244,
+    "receivedKBytesPerSec" : 2.4532247856538003,
+    "sentKBytesPerSec" : 0.6812024777715052
+  },
+  "PurchaseFlight" : {
+    "transaction" : "PurchaseFlight",
+    "sampleCount" : 15,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 841.8000000000001,
+    "minResTime" : 520.0,
+    "maxResTime" : 1717.0,
+    "pct1ResTime" : 1527.4,
+    "pct2ResTime" : 1717.0,
+    "pct3ResTime" : 1717.0,
+    "throughput" : 1.1015642211940955,
+    "receivedKBytesPerSec" : 2.582508307630168,
+    "sentKBytesPerSec" : 0.885339212932364
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 45,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 874.6,
+    "minResTime" : 520.0,
+    "maxResTime" : 1717.0,
+    "pct1ResTime" : 1414.6,
+    "pct2ResTime" : 1540.1999999999994,
+    "pct3ResTime" : 1717.0,
+    "throughput" : 1.6751665860104978,
+    "receivedKBytesPerSec" : 3.984082718330045,
+    "sentKBytesPerSec" : 1.1980276658414921
+  },
+  "ChooseFlight" : {
+    "transaction" : "ChooseFlight",
+    "sampleCount" : 15,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 798.9999999999999,
+    "minResTime" : 557.0,
+    "maxResTime" : 1192.0,
+    "pct1ResTime" : 1118.8,
+    "pct2ResTime" : 1192.0,
+    "pct3ResTime" : 1192.0,
+    "throughput" : 1.131563065781533,
+    "receivedKBytesPerSec" : 2.798261164755582,
+    "sentKBytesPerSec" : 0.7901050703455039
+  }
+}

@@ -1,0 +1,11 @@
+If you want to run a jmeter script with CLI you need to insert the below code:
+
+-> jmeter -n -t [filepath of script .jmx]
+
+You can add -l or -e -o  for more details and report.
+
+-> jmeter -n -t [filepath of script .jmx] -l [name of report]
+
+e.g. 
+
+-> jmeter -n -t C:\Users\jcolonia\Documents\Jmeter\FirstScript\FirstScript.jmx -l ReportJmeter
